@@ -5,4 +5,6 @@
     <string name="app_widget_description">This is an app widget description</string>
     <string name="random">Random: 100</string>
     <string name="generate">Generate</string>
+    <string name="stack_widget_text">STAR WARS BANNER</string>
+    <string name="empty_text">NO DATA</string>
 </resources>
