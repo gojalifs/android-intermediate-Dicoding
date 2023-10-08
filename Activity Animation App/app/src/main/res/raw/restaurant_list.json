@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "rqdv5juczeskfw1e867",
+    "name": "Melting Pot",
+    "description": "Restoran \"Melting Pot\" mengundang para pengunjung dalam perjalanan kuliner lintas budaya yang hangat dan memikat, dengan menu yang beragam mencakup masakan dari berbagai belahan dunia seperti Asia, Eropa, Amerika, dan Timur Tengah. Dengan dekorasi yang ramah dan atmosfer yang cocok untuk berbagai kesempatan, restoran ini menciptakan pengalaman unik di mana berbagai cita rasa melebur dalam harmoni yang kreatif. Dari pelayanan profesional hingga opsi \"wisata kuliner\" yang menggoda selera, \"Melting Pot\" memadukan inovasi modern dengan tradisi kulinernya, menawarkan tempat yang sempurna bagi mereka yang ingin menjelajahi kekayaan kuliner dunia dalam satu kunjungan.",
+    "city": "Medan",
+    "address": "Jln. Pandeglang no 19",
+    "pictureId": "14",
+    "categories": [
+      {
+        "name": "Italia"
+      },
+      {
+        "name": "Modern"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Salad lengkeng"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Jus tomat"
+        }
+      ]
+    },
+    "rating": 4.2,
+    "customerReviews": [
+      {
+        "name": "Ahmad",
+        "review": "Tidak rekomendasi untuk pelajar!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "asdf",
+        "review": "asdf",
+        "date": "24 Agustus 2023"
+      },
+      {
+        "name": "aku",
+        "review": "kamu",
+        "date": "24 Agustus 2023"
+      },
+      {
+        "name": "review",
+        "review": "review",
+        "date": "24 Agustus 2023"
+      },
+      {
+        "name": "aku kamu",
+        "review": "asdf",
+        "date": "24 Agustus 2023"
+      },
+      {
+        "name": "5",
+        "review": "5",
+        "date": "24 Agustus 2023"
+      }
+    ]
+  },
+  {
+    "id": "s1knt6za9kkfw1e867",
+    "name": "Kafe Kita",
+    "description": "\"Kafe Kita\" adalah sebuah destinasi kuliner yang mengusung konsep hangat dan ramah, menciptakan suasana yang seperti kedua rumah bagi para pengunjungnya. Dengan dekorasi yang menggabungkan sentuhan modern dan nuansa tradisional, restoran ini memberikan pengalaman makan yang unik dan memikat. Menu yang disajikan di \"Kafe Kita\" mengambil inspirasi dari beragam masakan lokal dan internasional, menghadirkan pilihan hidangan lezat untuk semua lidah. Pelayanan yang sopan dan perhatian terhadap detail membuat pengunjung merasa dihargai dan diayomi selama kunjungan mereka. Dari santap siang santai hingga makan malam romantis, \"Kafe Kita\" memadukan rasa akrab dengan nuansa yang menyegarkan, menjadikannya tempat yang sempurna untuk menjelajahi cita rasa kuliner dalam suasana yang menyenangkan.",
+    "city": "Gorontalo",
+    "address": "Jln. Pustakawan no 9",
+    "pictureId": "25",
+    "categories": [
+      {
+        "name": "Sop"
+      },
+      {
+        "name": "Modern"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Jus jeruk"
+        }
+      ]
+    },
+    "rating": 4,
+    "customerReviews": [
+      {
+        "name": "Ahmad",
+        "review": "Tidak ada duanya!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Arif",
+        "review": "Tidak rekomendasi untuk pelajar!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Gilang",
+        "review": "Tempatnya bagus namun menurut saya masih sedikit mahal.",
+        "date": "14 Agustus 2018"
+      },
+      {
+        "name": "User Test 1",
+        "review": "Mantap",
+        "date": "24 Agustus 2023"
+      },
+      {
+        "name": "User Test 2",
+        "review": "Harusnya berhasil sih.",
+        "date": "24 Agustus 2023"
+      }
+    ]
+  },
+  {
+    "id": "w9pga3s2tubkfw1e867",
+    "name": "Bring Your Phone Cafe",
+    "description": "\"Bring Your Phone Cafe adalah destinasi kuliner yang inovatif yang menggabungkan makanan lezat dengan pengalaman modern. Dengan suasana yang ramah dan futuristik, restoran ini memperbolehkan para pengunjung untuk sepenuhnya terhubung dengan teknologi mereka. Setiap meja dilengkapi dengan pengisi daya nirkabel dan dukungan untuk aplikasi restoran yang memungkinkan pelanggan memesan, menyesuaikan hidangan, dan bahkan mengatur preferensi pribadi. Menu yang beragam mencakup sajian internasional dengan sentuhan kreatif, mulai dari hidangan khas lokal hingga hidangan internasional yang eksotis. Bring Your Phone Cafe tidak hanya menyajikan makanan berkualitas tinggi, tetapi juga menghadirkan pengalaman kuliner yang interaktif dan terhubung secara digital bagi para pengunjungnya.\"",
+    "city": "Surabaya",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "03",
+    "categories": [
+      {
+        "name": "Modern"
+      },
+      {
+        "name": "Italia"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Matzo farfel"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Napolitana"
+        },
+        {
+          "name": "Daging Sapi"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Sup Kohlrabi"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Tumis leek"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Es kopi"
+        }
+      ]
+    },
+    "rating": 4.2,
+    "customerReviews": [
+      {
+        "name": "Widdy",
+        "review": "Tidak ada duanya!",
+        "date": "13 Juli 2019"
+      },
+      {
+        "name": "Ahmad",
+        "review": "Tidak rekomendasi untuk pelajar!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Gilang",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "13 Juli 2019"
+      }
+    ]
+  },
+  {
+    "id": "uewq1zg2zlskfw1e867",
+    "name": "Kafein",
+    "description": "Restoran 'Kafein' adalah sebuah destinasi kuliner yang menggabungkan dengan sempurna cita rasa kopi yang kaya dengan pengalaman makan yang istimewa. Dengan desain interior yang modern namun hangat, 'Kafein' menciptakan suasana yang cocok untuk bersantai sambil menikmati berbagai varian kopi pilihan dari seluruh penjuru dunia. Menu mereka tidak hanya menghadirkan beragam jenis biji kopi yang disajikan dengan presisi oleh barista terlatih, tetapi juga menyajikan hidangan lezat mulai dari sarapan sehat hingga hidangan penutup yang menggugah selera. Dengan pelayanan ramah dan suasana yang nyaman, 'Kafein' menjadi tempat ideal bagi pecinta kopi dan mereka yang mencari pengalaman kuliner yang memanjakan lidah dan indra.",
+    "city": "Aceh",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "15",
+    "categories": [
+      {
+        "name": "Italia"
+      },
+      {
+        "name": "Jawa"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Napolitana"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Sup Kohlrabi"
+        },
+        {
+          "name": "roket penne"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Es krim"
+        }
+      ]
+    },
+    "rating": 4.6,
+    "customerReviews": [
+      {
+        "name": "Gilang",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Ahmad",
+        "review": "Tempatnya bagus namun menurut saya masih sedikit mahal.",
+        "date": "14 Agustus 2018"
+      },
+      {
+        "name": "Dicoding",
+        "review": "mang ea",
+        "date": "24 Agustus 2023"
+      },
+      {
+        "name": "Dicoding",
+        "review": "mang ea",
+        "date": "24 Agustus 2023"
+      }
+    ]
+  },
+  {
+    "id": "ygewwl55ktckfw1e867",
+    "name": "Istana Emas",
+    "description": "Restoran \"Istana Emas\" mengundang para pengunjung untuk merasakan kemewahan dan cita rasa istimewa dalam satu pengalaman kuliner yang tak terlupakan. Dengan desain interior yang elegan dan nuansa yang hangat, restoran ini memadukan keindahan tradisional dengan sentuhan modern. Menu yang disajikan menggabungkan kelezatan kuliner khas lokal dan internasional, disiapkan dengan teliti oleh koki berbakat yang mengutamakan kualitas bahan dan detail dalam penyajian. Setiap hidangan memancarkan harmoni rasa dan estetika visual, menciptakan pengalaman makan yang seimbang dan memuaskan. Dari suasana hening untuk makan malam romantis hingga ruang luas yang cocok untuk keluarga besar, Restoran Istana Emas menghadirkan keanggunan dalam setiap aspek, menjadikannya destinasi kuliner pilihan bagi mereka yang mencari sensasi makan yang istimewa.",
+    "city": "Balikpapan",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "05",
+    "categories": [
+      {
+        "name": "Bali"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Daging Sapi"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Salad lengkeng"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Coklat panas"
+        }
+      ]
+    },
+    "rating": 4.5,
+    "customerReviews": [
+      {
+        "name": "Gilang",
+        "review": "Tempatnya bagus namun menurut saya masih sedikit mahal.",
+        "date": "13 Juli 2019"
+      },
+      {
+        "name": "Ahmad",
+        "review": "Tidak ada duanya!",
+        "date": "14 Agustus 2018"
+      }
+    ]
+  },
+  {
+    "id": "fnfn8mytkpmkfw1e867",
+    "name": "Makan mudah",
+    "description": "Restoran 'Makan Mudah' mengusung konsep kuliner yang memadukan cita rasa autentik dengan kemudahan dalam setiap aspek pengalaman makan. Dengan desain interior yang nyaman dan modern, serta pelayanan ramah yang siap menjawab kebutuhan para pelanggan, 'Makan Mudah' menjadi destinasi ideal bagi mereka yang ingin menikmati hidangan lezat tanpa harus mengorbankan waktu dan kenyamanan. Menu-menu kreatif yang disajikan menggabungkan berbagai masakan dari berbagai belahan dunia, memenuhi selera para tamu dengan variasi pilihan mulai dari hidangan klasik hingga inovatif. Dari suasana hingga sajian, 'Makan Mudah' memberikan pengalaman kuliner yang tak hanya memanjakan lidah, tetapi juga memberikan kemudahan dan kenikmatan yang tiada duanya.",
+    "city": "Medan",
+    "address": "Jln. Pandeglang no 19",
+    "pictureId": "22",
+    "categories": [
+      {
+        "name": "Jawa"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Matzo farfel"
+        },
+        {
+          "name": "Napolitana"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Daging Sapi"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Coklat panas"
+        }
+      ]
+    },
+    "rating": 3.7,
+    "customerReviews": [
+      {
+        "name": "Gilang",
+        "review": "Harganya murah sekali!",
+        "date": "14 Agustus 2018"
+      }
+    ]
+  },
+  {
+    "id": "dwg2wt3is19kfw1e867",
+    "name": "Drinky Squash",
+    "description": "Restoran 'Drinky Squash' adalah sebuah destinasi kuliner yang menyajikan pengalaman unik dengan kombinasi antara hidangan lezat dan minuman segar. Dengan dekorasi yang ceria dan atmosfer yang ramah, restoran ini mengundang para pengunjung untuk menikmati beragam pilihan menu yang menggoda selera, mulai dari hidangan kreatif berbahan dasar lokal hingga hidangan internasional yang menggugah selera. Namun, yang membuat 'Drinky Squash' benar-benar berbeda adalah koleksi minuman squash-nya yang inovatif, dimana setiap minuman disajikan dengan sentuhan kreatif dan segar, menggabungkan berbagai rasa buah, rempah, dan bahan alami lainnya. Dengan pelayanan yang hangat dan suasana yang mengundang, 'Drinky Squash' menjadi tempat ideal untuk bersantai sambil menikmati kuliner dan minuman yang menggugah selera.",
+    "city": "Surabaya",
+    "address": "Jln. Pustakawan no 9",
+    "pictureId": "18",
+    "categories": [
+      {
+        "name": "Jawa"
+      },
+      {
+        "name": "Modern"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Sup Kohlrabi"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Salad lengkeng"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Minuman soda"
+        }
+      ]
+    },
+    "rating": 3.9,
+    "customerReviews": [
+      {
+        "name": "Ahmad",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Buchori",
+        "review": "Harganya murah sekali!",
+        "date": "14 Agustus 2018"
+      }
+    ]
+  },
+  {
+    "id": "6u9lf7okjh9kfw1e867",
+    "name": "Ampiran Kota",
+    "description": "Restoran \"Ampiran Kota\" adalah sebuah destinasi kuliner yang memukau yang menggabungkan cita rasa autentik dengan pengalaman makan yang elegan. Dengan desain interior yang memadukan sentuhan modern dan nuansa tradisional, restoran ini menciptakan atmosfer yang hangat dan mengundang para tamu untuk menikmati hidangan istimewa. Menu yang ditawarkan oleh Restoran Ampiran Kota menggambarkan perpaduan kreativitas dan dedikasi terhadap bahan-bahan berkualitas tinggi. Dari hidangan khas lokal hingga inovasi kuliner internasional, setiap hidangan disajikan dengan sentuhan artistik yang memikat mata sebelum memanjakan lidah. Dengan pelayanan ramah dan suasana yang mengesankan, Restoran Ampiran Kota menjadi pilihan utama bagi pecinta kuliner yang mencari pengalaman gastronomi yang tak terlupakan.",
+    "city": "Balikpapan",
+    "address": "Jln. Pustakawan no 9",
+    "pictureId": "35",
+    "categories": [
+      {
+        "name": "Italia"
+      },
+      {
+        "name": "Modern"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Sup Kohlrabi"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Jus mangga"
+        }
+      ]
+    },
+    "rating": 4.1,
+    "customerReviews": [
+      {
+        "name": "Gilang",
+        "review": "Tempatnya bagus namun menurut saya masih sedikit mahal.",
+        "date": "13 Juli 2019"
+      },
+      {
+        "name": "Buchori",
+        "review": "Harganya murah sekali!",
+        "date": "13 Juli 2019"
+      }
+    ]
+  },
+  {
+    "id": "zvf11c0sukfw1e867",
+    "name": "Gigitan Cepat",
+    "description": "Restoran 'Gigitan Cepat' merupakan sebuah destinasi kuliner yang menggabungkan cita rasa yang lezat dengan kenyamanan makanan siap saji. Dengan suasana yang modern namun hangat, restoran ini mengundang para pelanggan untuk menikmati beragam hidangan cepat saji yang berkualitas tinggi dalam lingkungan yang santai. Menu yang beragam, mulai dari hidangan klasik hingga inovatif, disajikan dengan cepat tanpa mengorbankan kualitas bahan baku. Dari burger gourmet yang lezat hingga pilihan hidangan sehat, 'Gigitan Cepat' memenuhi selera beragam pengunjung yang mencari alternatif makanan cepat saji yang lebih baik. Dengan pelayanan ramah dan suasana yang mengundang, restoran ini menjadi tempat sempurna untuk menikmati makanan cepat namun memuaskan di tengah kesibukan kota.",
+    "city": "Bali",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "38",
+    "categories": [
+      {
+        "name": "Italia"
+      },
+      {
+        "name": "Sop"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Daging Sapi"
+        },
+        {
+          "name": "Napolitana"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Matzo farfel"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Kari terong"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Jus tomat"
+        }
+      ]
+    },
+    "rating": 4,
+    "customerReviews": [
+      {
+        "name": "Arif",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Gilang",
+        "review": "Harganya murah sekali!",
+        "date": "13 Juli 2019"
+      }
+    ]
+  },
+  {
+    "id": "ughslf146iqkfw1e867",
+    "name": "Tempat Siang Hari",
+    "description": "\"Tempat Siang Hari\" adalah restoran yang memikat para pengunjung dengan suasana yang hangat dan ramah serta hidangan berkualitas tinggi. Dengan dekorasi interior yang didominasi oleh nuansa alami dan pencahayaan yang lembut, restoran ini menghadirkan suasana yang cocok untuk santap siang yang santai dan menyenangkan. Menu mereka menggabungkan cita rasa tradisional dan inovasi, menawarkan berbagai pilihan hidangan dari berbagai masakan dunia dengan sentuhan kreatif. Mulai dari makanan penutup yang lezat hingga hidangan utama yang menggugah selera, setiap hidangan disajikan dengan penuh perhatian terhadap rasa dan tampilan. \"Tempat Siang Hari\" tidak hanya sekadar restoran, tetapi juga merupakan tempat di mana tamu dapat merasakan kehangatan keramahan dan kepuasan kuliner dalam setiap kunjungannya.",
+    "city": "Surabaya",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "10",
+    "categories": [
+      {
+        "name": "Modern"
+      },
+      {
+        "name": "Bali"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Matzo farfel"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Daging Sapi"
+        },
+        {
+          "name": "Napolitana"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Salad yuzu"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Es krim"
+        }
+      ]
+    },
+    "rating": 4.4,
+    "customerReviews": [
+      {
+        "name": "Gilang",
+        "review": "Harganya murah sekali!",
+        "date": "14 Agustus 2018"
+      },
+      {
+        "name": "Ahmad",
+        "review": "Tidak rekomendasi untuk pelajar!",
+        "date": "13 November 2019"
+      }
+    ]
+  },
+  {
+    "id": "w7jca3irwykfw1e867",
+    "name": "Fairy Cafe",
+    "description": "Cafe \"Fairy Cafe\" mengundang pengunjung dalam suasana yang memikat dan magis seperti dalam dongeng. Dengan dekorasi yang dipenuhi sentuhan alami, cahaya lembut, dan elemen-elemen berinspirasi alam, tempat ini menciptakan suasana yang menenangkan sekaligus ajaib. Menu kreatif mereka tidak hanya menyajikan hidangan lezat, tetapi juga menyuguhkan pengalaman kuliner yang unik, dengan minuman istimewa dan makanan ringan yang menggugah selera. Dari dinding hingga hiasan meja, setiap detail di Fairy Cafe dirancang untuk menghadirkan suasana yang menawarkan pelarian dari hiruk-pikuk sehari-hari, membiarkan pengunjung merasakan sentuhan keajaiban dalam setiap kunjungan.",
+    "city": "Surabaya",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "24",
+    "categories": [
+      {
+        "name": "Jawa"
+      },
+      {
+        "name": "Sop"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Napolitana"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Daging Sapi"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Jus alpukat"
+        }
+      ]
+    },
+    "rating": 5,
+    "customerReviews": [
+      {
+        "name": "Buchori",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "14 Agustus 2018"
+      },
+      {
+        "name": "Widdy",
+        "review": "Tidak rekomendasi untuk pelajar!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Gilang",
+        "review": "Tidak ada duanya!",
+        "date": "14 Agustus 2018"
+      }
+    ]
+  },
+  {
+    "id": "8maika7giinkfw1e867",
+    "name": "Rumah Senja",
+    "description": "Cafe \"Rumah Seja\" menghadirkan suasana hangat dan nyaman layaknya berada di dalam rumah sendiri. Dengan desain interior yang minimalis namun memikat, cafe ini menggabungkan elemen-elemen modern dengan sentuhan tradisional, menciptakan tempat yang cocok untuk bersantai dan menikmati waktu bersama teman maupun keluarga. Menu yang ditawarkan pun beragam, mulai dari kopi pilihan terbaik hingga hidangan ringan dan makanan lezat yang menggugah selera. Pelayanan ramah dan atmosfer yang welcoming di Cafe \"Rumah Seja\" menjadikannya destinasi yang tak hanya memanjakan lidah tetapi juga memberikan pengalaman bersantap yang tak terlupakan.",
+    "city": "Bandung",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "23",
+    "categories": [
+      {
+        "name": "Jawa"
+      },
+      {
+        "name": "Bali"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Daging Sapi"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Jus tomat"
+        }
+      ]
+    },
+    "rating": 3.9,
+    "customerReviews": [
+      {
+        "name": "Widdy",
+        "review": "Tidak rekomendasi untuk pelajar!",
+        "date": "13 November 2019"
+      }
+    ]
+  },
+  {
+    "id": "e1elb86snf8kfw1e867",
+    "name": "Saya Suka",
+    "description": "Cafe \"Saya Suka\" mengundang para pengunjung untuk merasakan kenikmatan kopi dalam suasana yang hangat dan ramah. Dengan dekorasi yang minimalis namun menyegarkan, tempat ini menawarkan pelanggan pengalaman santai yang tak terlupakan. Menu kopi yang beragam, mulai dari biji kopi pilihan hingga campuran kreatif, memikat lidah para pecinta kopi dari segala penjuru. Ditunjang oleh para barista yang berdedikasi tinggi, setiap cangkir kopi menjadi sebuah karya seni, memadukan cita rasa yang kaya dengan tampilan estetis. Cafe \"Saya Suka\" bukan hanya sekadar destinasi untuk menikmati kopi, tetapi juga tempat di mana kenikmatan sederhana bertemu dengan kenyamanan sejati.",
+    "city": "Bandung",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "34",
+    "categories": [
+      {
+        "name": "Modern"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Daging Sapi"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Sup Kohlrabi"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Kopi espresso"
+        }
+      ]
+    },
+    "rating": 4.3,
+    "customerReviews": [
+      {
+        "name": "Ahmad",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "14 Agustus 2018"
+      },
+      {
+        "name": "Arif",
+        "review": "Harganya murah sekali!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Gilang",
+        "review": "Tempatnya bagus namun menurut saya masih sedikit mahal.",
+        "date": "13 November 2019"
+      }
+    ]
+  },
+  {
+    "id": "69ahsy71a5gkfw1e867",
+    "name": "Hub Grubber",
+    "description": "\"Cafe Hub Grubber\" merupaka kafe yang memikat dengan sentuhan eklektik dan suasana yang penuh semangat. Dari dinding bata ekspos hingga perabotan bergaya industrial, tempat ini menawarkan perpaduan unik antara kehangatan dan kekinian. Pengunjung dapat menikmati beragam pilihan kopi dari biji pilihan yang disajikan dengan mahir oleh para barista terampil, sambil menikmati beragam hidangan lezat yang menggabungkan cita rasa global dengan sentuhan lokal. Dari santapan ringan hingga hidangan berat, \"Hub Grubber\" bukan hanya sekadar kafe, melainkan destinasi bagi pecinta kopi dan kuliner yang mencari pengalaman yang tak terlupakan dalam lingkungan yang penuh gaya.",
+    "city": "Balikpapan",
+    "address": "Jln. Pandeglang no 19",
+    "pictureId": "32",
+    "categories": [
+      {
+        "name": "Italia"
+      },
+      {
+        "name": "Spanyol"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Matzo farfel"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Kari terong"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Es krim"
+        }
+      ]
+    },
+    "rating": 3.8,
+    "customerReviews": [
+      {
+        "name": "Buchori",
+        "review": "Tidak ada duanya!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Arif",
+        "review": "Harganya murah sekali!",
+        "date": "14 Agustus 2018"
+      },
+      {
+        "name": "Ahmad",
+        "review": "Tempatnya bagus namun menurut saya masih sedikit mahal.",
+        "date": "13 November 2019"
+      }
+    ]
+  },
+  {
+    "id": "ateyf7m737ekfw1e867",
+    "name": "Kafe Cemara",
+    "description": "\"Kafe Cemara merupakan sebuah destinasi kulinari yang memikat di tengah Kota Ternate. Dengan pesona alam tropis yang mempesona, kafe ini menggabungkan kehangatan budaya lokal dengan sentuhan modern yang memesona. Terletak di bawah rindangnya pepohonan cemara, kafe ini menghadirkan suasana yang menenangkan bagi para pengunjungnya. Menu-menu unggulannya tidak hanya menggoyang lidah melalui cita rasa yang autentik, tetapi juga memberikan pengalaman kuliner yang memanjakan mata dengan penyajian kreatif. Dari hidangan khas rempah-rempah Maluku hingga pilihan kopi lokal pilihan, Kafe Cemara menjadi tempat idaman bagi mereka yang mencari kenikmatan kuliner sambil merasakan keindahan alam dan budaya Ternate.\"",
+    "city": "Ternate",
+    "address": "Jln. Belimbing Timur no 27",
+    "pictureId": "27",
+    "categories": [
+      {
+        "name": "Spanyol"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Matzo farfel"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Napolitana"
+        },
+        {
+          "name": "Sup Kohlrabi"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Kari terong"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Minuman soda"
+        }
+      ]
+    },
+    "rating": 3.6,
+    "customerReviews": [
+      {
+        "name": "Ahmad",
+        "review": "Tidak rekomendasi untuk pelajar!",
+        "date": "13 November 2019"
+      }
+    ]
+  },
+  {
+    "id": "02hfwn4bh8uzkfw1e867",
+    "name": "Manis Asam Kafe",
+    "description": "Manis Asam Kafe merupakan sebuah destinasi kafe yang menawan di kota Malang. Dengan suasana yang hangat dan mengundang, kafe ini menggabungkan sentuhan modern dengan nuansa tradisional, menciptakan tempat yang sempurna untuk bersantai sambil menikmati kuliner. Menu unggulannya mencerminkan filosofi namanya, menawarkan kombinasi unik antara rasa manis dan asam dalam setiap hidangan. Dari racikan kopi khas dengan sentuhan rasa buah segar hingga pilihan makanan penutup yang lezat dengan sentuhan asem yang menyegarkan, Manis Asam Kafe mengundang para pengunjung untuk menjelajahi perpaduan rasa yang tak terlupakan. Terletak di jantung Kota Malang, kafe ini bukan hanya sekadar tempat bersantap, tetapi juga merupakan pengalaman cita rasa yang menggugah selera sambil menikmati pesona budaya lokal.",
+    "city": "Malang",
+    "address": "Jln. Pustakawan no 9",
+    "pictureId": "21",
+    "categories": [
+      {
+        "name": "Spanyol"
+      },
+      {
+        "name": "Sop"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Bebek crepes"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Kopi espresso"
+        }
+      ]
+    },
+    "rating": 4.6,
+    "customerReviews": [
+      {
+        "name": "Arif",
+        "review": "Tidak ada duanya!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Widdy",
+        "review": "Tempatnya bagus namun menurut saya masih sedikit mahal.",
+        "date": "14 Agustus 2018"
+      },
+      {
+        "name": "Ahmad",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "14 Agustus 2018"
+      }
+    ]
+  },
+  {
+    "id": "p06p0wr8eedkfw1e867",
+    "name": "Run The Gun",
+    "description": "Run the Gun adalah sebuah cafe yang unik dan energik yang terletak di jantung Kota Aceh. Dengan desain interior yang dipengaruhi oleh estetika urban dan industri, cafe ini menggabungkan sentuhan modern dengan nuansa khas Aceh. Dari dinding bata ekspos hingga perabotan terinspirasi dari daur ulang, suasana di Run the Gun memberikan perasaan yang hangat dan tidak formal, menciptakan lingkungan yang sempurna untuk berkumpul dengan teman-teman atau bekerja sambil menikmati hidangan lezat. Dari berbagai pilihan kopi berkualitas tinggi hingga makanan ringan lokal dengan sentuhan kontemporer, Run the Gun menghadirkan pengalaman kafe yang menyenangkan sambil tetap mempertahankan akar budaya Aceh yang kaya.",
+    "city": "Aceh",
+    "address": "Jln. Pandeglang no 19",
+    "pictureId": "30",
+    "categories": [
+      {
+        "name": "Sop"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Matzo farfel"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Daging Sapi"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "Sup Kohlrabi"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Sosis squash dan mint"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Jus apel"
+        }
+      ]
+    },
+    "rating": 3.7,
+    "customerReviews": [
+      {
+        "name": "Gilang",
+        "review": "Tidak ada duanya!",
+        "date": "13 November 2019"
+      },
+      {
+        "name": "Buchori",
+        "review": "Harganya murah sekali!",
+        "date": "13 Juli 2019"
+      }
+    ]
+  },
+  {
+    "id": "uqzwm2m981kfw1e867",
+    "name": "Bobby",
+    "description": "Cafe 'Bobby' di Kota Ternate adalah sebuah destinasi yang memikat dengan kombinasi unik antara kehangatan budaya lokal dan kenyamanan modern. Dengan desain interior yang berpadu nuansa tradisional dan sentuhan kontemporer, cafe ini menciptakan suasana yang mengundang para pengunjung untuk bersantai sambil menikmati kuliner lezat. Menu-menu khas daerah, seperti hidangan dengan rempah-rempah khas Maluku, disajikan dengan penuh keahlian, menggugah selera dan juga memberikan pengalaman kuliner yang autentik. Sementara aroma kopi pilihan dan berbagai minuman menyegarkan semakin melengkapi pengalaman bersantap yang tak terlupakan di Cafe 'Bobby'. Dengan pelayanan ramah dan atmosfer yang hangat, cafe ini menjadi tempat ideal bagi warga lokal maupun wisatawan untuk merasakan pesona Kota Ternate melalui cita rasa dan keramahan yang disuguhkan.",
+    "city": "Ternate",
+    "address": "Jln. Pandeglang no 19",
+    "pictureId": "19",
+    "categories": [
+      {
+        "name": "Sunda"
+      },
+      {
+        "name": "Spanyol"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Napolitana"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Sirup"
+        },
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Jus apel"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Es krim"
+        }
+      ]
+    },
+    "rating": 4.7,
+    "customerReviews": [
+      {
+        "name": "Buchori",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "13 Juli 2019"
+      },
+      {
+        "name": "Ahmad",
+        "review": "Tidak rekomendasi untuk pelajar!",
+        "date": "13 Juli 2019"
+      },
+      {
+        "name": "Arif",
+        "review": "Harganya murah sekali!",
+        "date": "13 November 2019"
+      }
+    ]
+  },
+  {
+    "id": "dy62fuwe6w8kfw1e867",
+    "name": "Pangsit Express",
+    "description": "Pangsit Express merupakan sebuah cafe & resto yang menggabungkan cita rasa tradisional dengan sentuhan modern di tengah kota Surabaya. Dengan dekorasi yang menggambarkan harmoni antara suasana klasik dan kontemporer, Pangsit Express mengundang para pengunjung untuk menikmati pengalaman kuliner yang unik. Menu andalannya adalah aneka hidangan pangsit yang lezat, mulai dari pangsit rebus klasik hingga variasi pangsit goreng yang inovatif, semuanya disajikan dengan bumbu dan saus autentik yang menggugah selera. Selain hidangan pangsit, menu internasional dan lokal juga tersedia, mengakomodasi beragam selera. Dengan pelayanan ramah dan suasana yang mengundang, Pangsit Express menjadi destinasi kuliner yang cocok untuk bersantai sambil menikmati kelezatan masakan dalam suasana yang berbeda. Terletak di pusat kota Surabaya, Pangsit Express memadukan kekayaan rasa dan kehangatan dalam setiap kunjungan pelanggan.",
+    "city": "Surabaya",
+    "address": "Jln. Pandeglang no 19",
+    "pictureId": "43",
+    "categories": [
+      {
+        "name": "Modern"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Bebek crepes"
+        },
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "roket penne"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Sup Kohlrabi"
+        },
+        {
+          "name": "Daging Sapi"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Coklat panas"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Es kopi"
+        },
+        {
+          "name": "Minuman soda"
+        },
+        {
+          "name": "Es teh"
+        },
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Teh manis"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Jus apel"
+        }
+      ]
+    },
+    "rating": 4.8,
+    "customerReviews": [
+      {
+        "name": "Ahmad",
+        "review": "Tempatnya bagus namun menurut saya masih sedikit mahal.",
+        "date": "13 Juli 2019"
+      }
+    ]
+  },
+  {
+    "id": "vfsqv0t48jkfw1e867",
+    "name": "Gigitan Makro",
+    "description": "\"Cafe & Resto 'Gigitan Makro' di Kota Surabaya adalah surga bagi pecinta makanan dengan selera tinggi. Dengan desain interior yang modern namun tetap hangat, tempat ini menggabungkan nuansa yang menyenangkan dengan hidangan berkualitas. Menu yang variatif menghadirkan kombinasi unik antara cita rasa lokal dan internasional, memanjakan lidah para pengunjung. Dari hidangan khas Indonesia yang autentik hingga sajian fusion yang kreatif, setiap gigitan mengundang untuk menjelajahi rasa. Pelayanan ramah dan atmosfer yang mengundang membuat Cafe & Resto 'Gigitan Makro' menjadi destinasi kuliner yang tak boleh dilewatkan di tengah gemerlap Kota Surabaya.\"",
+    "city": "Surabaya",
+    "address": "Jln. Pandeglang no 19",
+    "pictureId": "04",
+    "categories": [
+      {
+        "name": "Bali"
+      }
+    ],
+    "menus": {
+      "foods": [
+        {
+          "name": "Paket rosemary"
+        },
+        {
+          "name": "Kari terong"
+        },
+        {
+          "name": "Matzo farfel"
+        },
+        {
+          "name": "Salad yuzu"
+        },
+        {
+          "name": "Napolitana"
+        },
+        {
+          "name": "Tumis leek"
+        },
+        {
+          "name": "Kari kacang dan telur"
+        },
+        {
+          "name": "Toastie salmon"
+        },
+        {
+          "name": "Sup Kohlrabi"
+        },
+        {
+          "name": "Salad lengkeng"
+        },
+        {
+          "name": "Ikan teri dan roti"
+        },
+        {
+          "name": "Bebek crepes"
+        }
+      ],
+      "drinks": [
+        {
+          "name": "Jus alpukat"
+        },
+        {
+          "name": "Air"
+        },
+        {
+          "name": "Es krim"
+        },
+        {
+          "name": "Jus mangga"
+        },
+        {
+          "name": "Jus tomat"
+        },
+        {
+          "name": "Kopi espresso"
+        },
+        {
+          "name": "Jus jeruk"
+        },
+        {
+          "name": "Es kopi"
+        }
+      ]
+    },
+    "rating": 4.9,
+    "customerReviews": [
+      {
+        "name": "Buchori",
+        "review": "Saya sangat suka menu malamnya!",
+        "date": "13 Juli 2019"
+      },
+      {
+        "name": "Arif",
+        "review": "Harganya murah sekali!",
+        "date": "14 Agustus 2018"
+      }
+    ]
+  }
+]

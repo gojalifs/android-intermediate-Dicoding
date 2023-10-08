@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Resto Finder</string>
+    <string name="resto_image_description">Resto Image</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="resto_image">Resto Image</string>
+    <string name="description">Description</string>
+    <string name="profile">Profile</string>
+    <string name="share_to">Share To</string>
+    <string name="fajar_sidik_prasetio">Fajar Sidik Prasetio</string>
+    <string name="email">fajarsidik1999@hotmail.com</string>
+    <string name="http_github_com_gojalifs">http://github.com/gojalifs</string>
+    <string name="address_data">%1$s, %2$s</string>
+    <string name="menu">Menu(s)</string>
+    <string name="drinks">Drinks</string>
+    <string name="bullets_menu">• %1$s</string>
+    <string name="food">Foods</string>
+    <string name="credit_data">data by : https://restaurant-api.dicoding.dev/</string>
+    <string name="credit_app_icon">App Icon by Pause08 : Freepik</string>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_detail_resto_image"
+        android:layout_width="289dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="32dp"
+        android:contentDescription="@string/resto_image"
+        android:scaleType="centerCrop"
+        android:transitionName="profile"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <TextView
+        android:id="@+id/tv_detail_resto_name"
+        style="@style/TextContent.HeadlineMedium.Bold"
+        android:layout_height="0dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="16dp"
+        android:transitionName="name"
+        app:layout_constraintStart_toStartOf="@+id/guideline2"
+        app:layout_constraintTop_toBottomOf="@+id/img_detail_resto_image"
+        tools:text="Resto Name" />
+
+    <ImageView
+        android:id="@+id/icon_pin"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:contentDescription="@string/location_icon"
+        android:src="@drawable/baseline_location_on_24"
+        app:layout_constraintStart_toStartOf="@+id/guideline2"
+        app:layout_constraintTop_toTopOf="@+id/tv_detail_city" />
+
+    <TextView
+        android:id="@+id/tv_detail_city"
+        style="@style/TextContent.TitleMedium"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toEndOf="@+id/icon_pin"
+        app:layout_constraintTop_toBottomOf="@+id/tv_detail_resto_name"
+        tools:text="City" />
+
+    <ImageView
+        android:id="@+id/icon_dt_star"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:contentDescription="@string/location_icon"
+        android:src="@drawable/baseline_star_24"
+        app:layout_constraintStart_toStartOf="@+id/guideline2"
+        app:layout_constraintTop_toTopOf="@+id/tv_dt_rating" />
+
+    <TextView
+        android:id="@+id/tv_dt_rating"
+        style="@style/TextContent.BodyMedium.Gray"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toEndOf="@+id/icon_pin"
+        app:layout_constraintTop_toBottomOf="@+id/tv_detail_city"
+        tools:text="Rating" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_begin="16dp" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_end="16dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
