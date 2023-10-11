@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
 
         setupView()
         setupAction()
+        var data = "hg"
     }
 
     private fun setupAction() {
