@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Product Detail</string>
+    <string name="price" translatable="false">Rp. 200.000,00</string>
+    <string name="shoes_name">Running Shoes</string>
+    <string name="seller">Dicoding Shop</string>
+    <string name="uploaded_on">Uploaded on Aug 5, 2021</string>
+    <string name="color_variant">Brown</string>
+    <string name="rating">4.5 (1,249)</string>
+    <string name="shoes_size">42</string>
+    <string name="description">Cool limited edition running shoes. Wearing these shoes will improve your understanding when learning to code.\n\nStuff is always there. Various sizes and colors are available. Order now!</string>
+    <string name="buy_now">Buy Now!</string>
+</resources>
