@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.dicoding.picodiploma.productdetail.data.helper.Helper.withCurrencyFormat
 import com.dicoding.picodiploma.productdetail.data.helper.Helper.withDateFormat
 import com.dicoding.picodiploma.productdetail.data.helper.Helper.withNumberingFormat
+import com.dicoding.picodiploma.productdetail.data.model.ProductModel
 import com.dicoding.picodiploma.productdetail.data.remote.RemoteDataSource
 import com.dicoding.picodiploma.productdetail.databinding.ActivityMainBinding
 
@@ -44,6 +45,25 @@ class MainActivity : AppCompatActivity() {
                     rating.withNumberingFormat(),
                     countRating.withNumberingFormat()
                 )
+            }
+        }
+
+        setupAccessibility(product)
+    }
+
+    private fun setupAccessibility(product: ProductModel) {
+        product.apply {
+            binding.apply {
+                settingImageView.contentDescription = getString(R.string.settingDescription)
+                previewImageView.contentDescription = getString(R.string.previewDescription)
+                colorTextView.contentDescription = getString(R.string.colorDescription, color)
+                sizeTextView.contentDescription = getString(R.string.sizeDescription, size)
+                ratingTextView.contentDescription = getString(
+                    R.string.ratingDescription,
+                    rating.withNumberingFormat(),
+                    countRating.withNumberingFormat()
+                )
+                storeTextView.contentDescription = getString(R.string.storeDescription, store)
             }
         }
     }
