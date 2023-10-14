@@ -10,9 +10,29 @@ import com.satria.dicoding.latihan.serviceapp.databinding.ActivityMainBinding
 import com.satria.dicoding.latihan.serviceapp.services.MyBackgroundService
 import com.satria.dicoding.latihan.serviceapp.services.MyForegroundService
 import android.Manifest
+import android.content.ComponentName
+import android.content.ServiceConnection
+import android.os.IBinder
+import com.satria.dicoding.latihan.serviceapp.services.MyBoundService
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
+    private var boundStatus = false
+    private lateinit var boundService: MyBoundService
+
+    private val connection = object : ServiceConnection {
+        override fun onServiceConnected(name: ComponentName?, service: IBinder?) {
+            val myBinder = service as MyBoundService.MyBinder
+            boundService = myBinder.getService
+            boundStatus = true
+            getNumberFromService()
+        }
+
+        override fun onServiceDisconnected(name: ComponentName?) {
+            boundStatus = false
+        }
+
+    }
 
     private val requestPermissionLauncher =
         registerForActivityResult(
@@ -36,7 +56,7 @@ class MainActivity : AppCompatActivity() {
 
         val serviceIntent = Intent(this, MyBackgroundService::class.java)
         val foregroundServiceIntent = Intent(this, MyForegroundService::class.java)
-
+        val boundServiceIntent = Intent(this, MyBoundService::class.java)
 
         binding.btnStartBackgroundService.setOnClickListener {
 
@@ -54,7 +74,24 @@ class MainActivity : AppCompatActivity() {
         binding.btnStopForegroundService.setOnClickListener {
             stopService(foregroundServiceIntent)
         }
+        binding.btnStartBoundService.setOnClickListener {
+            bindService(boundServiceIntent, connection, BIND_AUTO_CREATE)
+        }
+        binding.btnStopBoundService.setOnClickListener { unbindService(connection) }
     }
 
+    private fun getNumberFromService() {
+        boundService.numberLiveData.observe(this) {
+            binding.tvBoundServiceNumber.text = it.toString()
+        }
+    }
+
+    override fun onStop() {
+        super.onStop()
+        if (boundStatus) {
+            unbindService(connection)
+            boundStatus = false
+        }
+    }
 
 }

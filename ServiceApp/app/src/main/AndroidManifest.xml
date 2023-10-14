@@ -16,6 +16,10 @@
         android:theme="@style/Theme.ServiceApp"
         tools:targetApi="31">
         <service
+            android:name=".services.MyBoundService"
+            android:enabled="true"
+            android:exported="false"></service>
+        <service
             android:name=".services.MyForegroundService"
             android:enabled="true"
             android:exported="false" />
