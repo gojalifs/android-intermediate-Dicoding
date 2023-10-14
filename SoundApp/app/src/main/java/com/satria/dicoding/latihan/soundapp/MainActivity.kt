@@ -1,5 +1,6 @@
 package com.satria.dicoding.latihan.soundapp
 
+import android.content.Intent
 import android.media.AudioAttributes
 import android.media.MediaPlayer
 import android.media.SoundPool
@@ -48,6 +49,11 @@ class MainActivity : AppCompatActivity() {
                 mMediaPlayer?.stop()
                 isMediaReady = false
             }
+        }
+
+        binding.btnVidPlayer.setOnClickListener {
+            val intent = Intent(this, ExoPlayerActivity::class.java)
+            startActivity(intent)
         }
     }
 
