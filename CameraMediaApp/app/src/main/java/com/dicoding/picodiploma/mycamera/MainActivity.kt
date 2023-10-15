@@ -7,6 +7,7 @@ import androidx.activity.result.PickVisualMediaRequest
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import com.dicoding.picodiploma.mycamera.databinding.ActivityMainBinding
+import com.dicoding.picodiploma.mycamera.utils.Utils.getImageUri
 
 class MainActivity : AppCompatActivity() {
 
@@ -47,7 +48,16 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun startCamera() {
-        Toast.makeText(this, "Fitur ini belum tersedia", Toast.LENGTH_SHORT).show()
+        currentImageUri = getImageUri(this)
+        launchIntentCamera.launch(currentImageUri)
+    }
+
+    private val launchIntentCamera = registerForActivityResult(
+        ActivityResultContracts.TakePicture()
+    ) {isSuccess->
+        if (isSuccess){
+            showImage()
+        }
     }
 
     private fun startCameraX() {
